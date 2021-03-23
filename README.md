@@ -2,7 +2,7 @@
 
 I see you're stalking my profile. There ain't much here, but I'm working to imporve that situation!
 
-🍵 CSS, HTML, UX, design & dev collab are my jam. Please feel free to ask me anything related to those topics!
+🍵 CSS, HTML, UX, accessibility, design & dev collab are my jam. Please feel free to ask me anything related to those topics!
 
 ### Currently...
 
