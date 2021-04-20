@@ -1,6 +1,6 @@
 ## Hello! 👋
 
-I see you're stalking my profile. There ain't much here, but I'm working to imporve that situation!
+I see you're stalking my profile. There ain't much here, but I'm working to improve that situation!
 
 🍵 CSS, HTML, UX, accessibility, design & dev collab are my jam. Please feel free to ask me anything related to those topics!
 
