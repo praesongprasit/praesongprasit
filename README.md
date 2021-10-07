@@ -2,12 +2,13 @@
 
 I see you're stalking my profile. There ain't much here, but I'm working to improve that situation!
 
-🍵 CSS, HTML, UX, accessibility, design & dev collab are my jam. Please feel free to ask me anything related to those topics!
+🍵 CSS, HTML, UX, accessibility, design & dev collab, and growing frontend capablities are my jam. Please feel free to ask me anything related to those topics!
 
 ### Currently...
 
 - 💻 Gathering requirements for New Zealand Kyudo Federation's website and membership portal
-- 🌱 Learning A11y, modern JS (neglected it for too long), React, micro-front end, and watercolour painting
+- 🌱 Plotting to grow more frontend capabilities at work
+- 📚 Learning A11y, modern JS (neglected it for too long), React, micro-front end, and watercolour painting
 - 🤔 I’m looking for help with optimising JS in a modern way
 
 ### Other notes
