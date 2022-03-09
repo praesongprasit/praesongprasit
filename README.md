@@ -1,15 +1,20 @@
-## Hello! 👋
+## Hi there! 👋
 
-I see you're stalking my profile. There ain't much here, but I'm working to improve that situation!
+I see you're stalking my profile. Welcome!
 
-🍵 CSS, HTML, UX, accessibility, design & dev collab, and growing frontend capablities are my jam. Please feel free to ask me anything related to those topics!
+I'm Prae, a UX Engineer who loves helping people make accessible web products.The Web needs to be more accessible for everyone!
+
+I also care deeply about user experience, sustainable software development, cross discipline collaboration, and growing front-end capabilities in and out of organisations.
+
+I'm particularly keen on food (eating and making), watercolours painting, photography (food, landscapes, and astro), and Kyudo (Japanese archery). Please feel free to ask me anything related to those topics!
 
 ### Currently...
 
+- ✨ Working on ways to inspire and empower web creators to make **digital accessibility** an integral part of their process
+- 🌱 Plotting to grow more front-end capabilities at work
 - 💻 Gathering requirements for New Zealand Kyudo Federation's website and membership portal
-- 🌱 Plotting to grow more frontend capabilities at work
-- 📚 Learning A11y, modern JS (neglected it for too long), React, micro-front end, and watercolour painting
-- 🤔 I’m looking for help with optimising JS in a modern way
+- 📚 Learning A11y, modern JS, React, micro-front end, and watercolour painting
+- 🤔 I’m looking to connect with other web accessibility practitioners!
 
 ### Other notes
 
