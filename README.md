@@ -14,7 +14,7 @@ I'm particularly keen on food (eating and making), watercolours painting, photog
 - 🌱 Plotting to grow more front-end capabilities at work
 - 💻 Gathering requirements for New Zealand Kyudo Federation's website and membership portal
 - 📚 Learning A11y, modern JS, React, micro-front end, and watercolour painting
-- 🤔 I’m looking to connect with other web accessibility practitioners!
+- 🤔 Looking to connect with other web accessibility practitioners!
 
 ### Other notes
 
