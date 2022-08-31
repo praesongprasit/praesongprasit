@@ -2,7 +2,7 @@
 
 I see you're stalking my profile. Welcome!
 
-I'm Prae, a UX Engineer who loves helping people make accessible web products. The Web needs to be more accessible for everyone!
+I'm Prae, a UX Engineer who loves helping people make accessible web products, and the host of [Web Access Club podcast](https://webaccessclub.com/).
 
 I also care deeply about user experience, sustainable software development, cross discipline collaboration, and growing front-end capabilities in and out of organisations.
 
